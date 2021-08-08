@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\inline-list",
+    "\\src\\app\\inline-templatelist",
+    "\\src\\app\\login",
+    "\\src\\app\\register",
+    "\\src\\app\\user-auth",
+    "\\src\\app\\user-auth\\sign-in",
+    "\\src\\app\\user-list"
+  ],
+  "SelectedNode": "\\src\\app\\user-auth\\sign-in\\sign-in.component.ts",
+  "PreviewInSolutionExplorer": false
+}
